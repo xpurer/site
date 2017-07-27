@@ -5,4 +5,5 @@
 * [席勒PE](http://www.multpl.com/shiller-pe/)
 * [美国未来一年陷入衰退的机率](https://stock-ai.com/eom-1-USRECPROB)
 * [美国信用贷款违约率](https://stock-ai.com/eom-1-DRCCLACBS)
+* [股票医生](http://www.icaifu.com/stock/hkindex.shtml)
 
