@@ -8,3 +8,4 @@
 * [美国10年国债](https://cn.investing.com/rates-bonds/u.s.-10-year-bond-yield)
 * [股票医生](http://www.icaifu.com/stock/hkindex.shtml)
 * [虚拟币价格](https://www.coinhills.com/zh/dashboard/)
+* [虚拟币市值](https://coinmarketcap.com/charts/#dominance-percentage)
