@@ -15,6 +15,10 @@
 * [霍华德·马克斯](https://www.oaktreecapital.com/insights/howard-marks-memos)
 * [雷伊·达里奥](https://www.linkedin.com/today/author/raydalio?trk=pprof-feed)
 
+## 公司
+
+* [苹果各地营收](https://www.macromicro.me/collections/21/us-apple/238/global-iphone-sales)
+
 ## 榜单
 * [福布斯实时富豪榜 - 中国](https://www.forbes.com/billionaires/list/#version:realtime_header:position_country:China)
 * [财富500强](http://www.fortunechina.com/fortune500/node_65.htm)
