@@ -14,6 +14,7 @@
 ## 博客
 * [霍华德·马克斯](https://www.oaktreecapital.com/insights/howard-marks-memos)
 * [雷伊·达里奥](https://www.linkedin.com/today/author/raydalio?trk=pprof-feed)
+* [零对冲](http://www.zerohedge.com/)
 
 ## 公司
 
