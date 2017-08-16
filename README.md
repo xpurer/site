@@ -22,6 +22,7 @@
 ## 榜单
 * [福布斯实时富豪榜 - 中国](https://www.forbes.com/billionaires/list/#version:realtime_header:position_country:China)
 * [财富500强](http://www.fortunechina.com/fortune500/node_65.htm)
+* [全球票房排名](http://www.the-numbers.com/box-office-records/worldwide/all-movies/cumulative/all-time)
 
 ## 工具
 * [telegra随手记](http://telegra.ph/)
